@@ -1,0 +1,26 @@
+﻿  Chat.cpp
+M:\Chat_Application\Chat Application\Chat Application\DatabaseConnection.h(3,10): error C1083: Cannot open include file: 'mysql.h': No such file or directory
+  (compiling source file 'Chat.cpp')
+  
+  DatabaseConnection.cpp
+M:\Chat_Application\Chat Application\Chat Application\DatabaseConnection.h(3,10): error C1083: Cannot open include file: 'mysql.h': No such file or directory
+  (compiling source file 'DatabaseConnection.cpp')
+  
+  Login.cpp
+M:\Chat_Application\Chat Application\Chat Application\DatabaseConnection.h(3,10): error C1083: Cannot open include file: 'mysql.h': No such file or directory
+  (compiling source file 'Login.cpp')
+  
+  main.cpp
+M:\Chat_Application\Chat Application\Chat Application\DatabaseConnection.h(3,10): error C1083: Cannot open include file: 'mysql.h': No such file or directory
+  (compiling source file 'main.cpp')
+  
+  Message.cpp
+  Signup.cpp
+M:\Chat_Application\Chat Application\Chat Application\DatabaseConnection.h(3,10): error C1083: Cannot open include file: 'mysql.h': No such file or directory
+  (compiling source file 'Signup.cpp')
+  
+  User.cpp
+M:\Chat_Application\Chat Application\Chat Application\DatabaseConnection.h(3,10): error C1083: Cannot open include file: 'mysql.h': No such file or directory
+  (compiling source file 'User.cpp')
+  
+  Generating Code...
